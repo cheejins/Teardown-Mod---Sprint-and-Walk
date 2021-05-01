@@ -1,0 +1,3 @@
+name = Sprint and Walk
+author = Cheejins
+description =  Hold shift to sprint. Hold c to walk. I'll add options to toggle walk/sprint and key bindings later.
